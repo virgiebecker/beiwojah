@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://athikaich.giveabrief.com/sitemap.xml
